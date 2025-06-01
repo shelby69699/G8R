@@ -1,0 +1,10 @@
+# Images Directory for Hello Kitty $KITTY Website
+
+This directory should contain:
+- kitty-logo.png (Hello Kitty logo for navigation)
+- kitty-hero.png (Main Hello Kitty image for hero section)
+- hellokitty.png (Hello Kitty icon for features)
+- kitty-main.png (Main Hello Kitty image for tokenomics)
+- kitty-roadmap1.png, kitty-roadmap2.png, kitty-roadmap3.png, kitty-roadmap4.png (Roadmap phase images)
+
+For now, the website will work without images and just show alt text. 
